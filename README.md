@@ -1,6 +1,6 @@
 # Tactician
 
-[![Travis CI](https://api.travis-ci.org/thephpleague/tactician.svg?branch=master)](https://travis-ci.org/thephpleague/tactician)
+[![Build Status](https://status.continuousphp.com/git-hub/oswaldderiemaecker/tactician?token=4630f4b7-79c5-4144-9f9d-79582ea540cb)](https://continuousphp.com/git-hub/oswaldderiemaecker/tactician)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/thephpleague/tactician/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/thephpleague/tactician/?branch=master)
 [![Build Status](https://scrutinizer-ci.com/g/thephpleague/tactician/badges/build.png?b=master)](https://scrutinizer-ci.com/g/thephpleague/tactician/build-status/master)
 [![MIT License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/thephpleague/tactician/blob/master/LICENSE)
